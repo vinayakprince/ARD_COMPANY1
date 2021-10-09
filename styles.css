@@ -1,0 +1,75 @@
+<style type="text/css"media="screen">
+
+body{
+   font-family:arial,sans-serif;
+   background-color: black;
+}
+header{
+  background-color:#FC63A4;
+        color:white;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px;
+  overflow: hidden;
+}
+header img{
+  float: left;
+  margin-right: 20px;
+}
+article h1{
+  line-height: 5px;
+  font-size: 1.5em;
+  color: blue;
+}
+hgroup h1{
+  font-size: 2em;
+  line-height: 5px;
+
+}
+hgroup h2{
+  font-size: 1.2em;
+}
+hgroup{
+  width: 70%;
+  float: left;
+}
+nav{
+  width: 30%;
+  float: right;
+}
+nav ul{
+  list-style-type: none;
+}
+nav li{
+  float: left;
+  margin-right: 10px;
+}
+section{
+  background-color:white;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  border-width:5px;
+  border-style: solid;
+  border-color: #FC63A4;
+  padding: 5px;
+}
+article img{
+  float: right;
+  margin: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+footer{
+   background-color:#FC63A4;
+        color:white;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+
+  padding: 10px;
+ }
+
+</style>
